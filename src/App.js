@@ -78,13 +78,13 @@ function App() {
           probability distribution.{" "}
         </p>
         <form class="form-split-bill">
-          <label>k value: </label>
+          <label>β value: </label>
           <input
             type="number"
             placeholder="2"
             onChange={(e) => setk(e.target.value)}
           />
-          <label>c value: </label>
+          <label>α value: </label>
           <input
             type="number"
             placeholder="30"
