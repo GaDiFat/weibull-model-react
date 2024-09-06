@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weibull-model-react/static/css/main.e4f8c181.css",
-    "main.js": "/weibull-model-react/static/js/main.49429a01.js",
+    "main.css": "/weibull-model-react/static/css/main.0a070155.css",
+    "main.js": "/weibull-model-react/static/js/main.e616fe95.js",
     "static/js/453.f0303c03.chunk.js": "/weibull-model-react/static/js/453.f0303c03.chunk.js",
     "index.html": "/weibull-model-react/index.html",
-    "main.e4f8c181.css.map": "/weibull-model-react/static/css/main.e4f8c181.css.map",
-    "main.49429a01.js.map": "/weibull-model-react/static/js/main.49429a01.js.map",
+    "main.0a070155.css.map": "/weibull-model-react/static/css/main.0a070155.css.map",
+    "main.e616fe95.js.map": "/weibull-model-react/static/js/main.e616fe95.js.map",
     "453.f0303c03.chunk.js.map": "/weibull-model-react/static/js/453.f0303c03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4f8c181.css",
-    "static/js/main.49429a01.js"
+    "static/css/main.0a070155.css",
+    "static/js/main.e616fe95.js"
   ]
 }
